@@ -28,11 +28,11 @@ color:#444;
           grid-template-columns: 20% auto;
           grid-template-areas:
       "header   header"
-          "midden1  info"
-          "midden1  info"
-          "midden1  info"
-          "midden1  info"
-          "midden1  info"
+          "midden1 info"
+          "midden1 info"
+          "midden1 info"
+          "midden1 info"
+          "midden1 info"
           "midden1 info"
           "midden1 info";
       }
@@ -126,4 +126,3 @@ background-color: #A5BDB6;
 #middiv7{
   margin-bottom:0px;
 }
-

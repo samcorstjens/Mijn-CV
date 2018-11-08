@@ -1,4 +1,4 @@
-html,body,div,h1,h2,h3,h4,h5,h6,p,img,ol,ul,li,fieldset,form,label,legend,table,caption,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+html,body,div,h1,h2,h3,h4,h5,h6,p,img,ol,ul,li,fieldset,form,label,legend,table,caption,article,aside,canvas,details,figcaption,figure,footer,header,section {
 border:0;
 font:inherit;
 font-size:100%;
@@ -141,23 +141,4 @@ section:last-child {
 .Lijst ul li {
 	margin-bottom: 3px;
   font-size: 0.8em;
-}
-
-.grid-rules{
-display: grid;
-grid-template-columns:30% 70%;
-padding :15px;
-}
-.grid-object{
-  float:left;
-  background-color:#f3f3f3;
-    border-bottom:1px solid #dedede;
-    padding: 20px;
-    font-size: 1.5em;
-    font-family: Arial, sans-serif;
-    font-style: italic;
-    color: #cf8a05;
-  margin-right:50px;
-
-
 }
