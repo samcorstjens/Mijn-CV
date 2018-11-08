@@ -1,2 +1,1 @@
-# Mijn-CV
-opdracht 5
+[Mijn CV](https://samcorstjens.github.io/Mijn-CV/)
