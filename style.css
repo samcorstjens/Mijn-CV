@@ -120,14 +120,6 @@ section {
   padding: 15px 0 0;
 }
 
-section:first-child {
-	border-top: 0;
-}
-
-section:last-child {
-	padding: 20px 0 10px;
-}
-
 .Lijst {
 	list-style-type: none;
 	-moz-column-count:4;
