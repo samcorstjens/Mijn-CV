@@ -1,13 +1,10 @@
-html,body,div,h1,h2,h3,h4,h5,h6,p,img,ol,ul,li,fieldset,form,label,legend,table,caption,article,aside,canvas,details,figcaption,figure,footer,header,section {
+html,body,div,h1,h2,p,img,ol,ul,li,form,table,article,footer,header,section {
 border:0;
 font:inherit;
 font-size:100%;
 margin:0;
 padding:0;
 vertical-align:baseline;
-}
-article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
-display:block;
 }
 
 div{
