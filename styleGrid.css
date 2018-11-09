@@ -20,14 +20,10 @@ color:#444;
 .BouwCV{
   display:grid;
   grid-gap : 1em;
-  grid-template-areas: "header" "midden1" "info"}
-
-  @media only screen and (min-width: 500px)  {
-      .BouwCV {
-
-          grid-template-columns: 20% auto;
-          grid-template-areas:
-      "header   header"
+  margin: 30px auto;
+  width : 90%;
+  grid-template-columns: 20% auto;
+  grid-template-areas:"header header"
           "midden1 info"
           "midden1 info"
           "midden1 info"
@@ -35,21 +31,20 @@ color:#444;
           "midden1 info"
           "midden1 info"
           "midden1 info";
-      }
-      }
+}
 
-      .veld {
-        background-color: #444;
-        color: #fff;
-        border-radius: 5px;
-        padding: 10px;
-        font-size: 150%;
-      }
+
+.veld {
+background-color: #444;
+color: #fff;
+border-radius: 5px;
+padding: 10px;
+font-size: 150%;
+}
 
 .header, .einde {
 background-color: #A5BDB6;
 }
-
 
 .midden1{
   background-color: #FFA255;
@@ -108,10 +103,10 @@ background-color: #A5BDB6;
   margin-bottom:160px;
 }
 #middiv2{
-  margin-bottom:190px;
+  margin-bottom:240px;
 }
 #middiv3{
-  margin-bottom:190px;
+  margin-bottom:160px;
 }
 #middiv4{
   margin-bottom:190px;
