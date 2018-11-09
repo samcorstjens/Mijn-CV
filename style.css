@@ -1,4 +1,4 @@
-html,body,div,h1,h2,p,img,ol,ul,li,form,table,article,footer,header,section {
+html,body,div,h1,h2,p,img,ol,ul,li,article,section {
 border:0;
 font:inherit;
 font-size:100%;
@@ -15,8 +15,8 @@ div{
     vertical-align:baseline;
 }
 html, body {background: #181818;
-   font-family: 'Times New Roman', arial, sans-serif;
-   font-size: 16px;
+   font-family: Times New Roman;
+   font-size: 15px;
    color: #222;}
 .clear {clear: both;}
 
@@ -25,17 +25,16 @@ html, body {background: #181818;
   max-width: 900px;
   background: #f3f3f3;
   margin: 30px auto;
-
 }
 
-.hoofdinfo {
-	padding: 25px 35px;
+.Hoofdinfo {
+	padding: 30px 30px;
 	border-bottom: 2px solid #cf8a05;
 	background-color: : #ededed;
 }
 
 #foto {
-	width: 12.5%;
+	width: 15%;
 	float: left;
 	margin-right: 30px;
 }
@@ -68,23 +67,7 @@ html, body {background: #181818;
   font-style: italic;
   color: #cf8a05;
   margin-top: 25px;
-  margin-right:250px;
-
-}
-#HoofdKolom2 ul {
-  font-family: Arial, sans-serif;
-  font-style: italic
-	list-style-type: none;
-	font-size: 0.9em;
-	margin-top: 2px;
-  color: #cf8a05;
-}
-
-#HoofdKolom2 ul li {
-  font-family: Arial, sans-serif;
-  font-style: italic
-	margin-bottom: 3px;
-	color: #cf8a05;
+  margin-right:200px;
 }
 
 #main{
